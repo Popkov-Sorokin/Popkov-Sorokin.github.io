@@ -2,7 +2,7 @@
   "name": "popkov-sorokin",
   "version": "1.0.0",
   "description": "",
-  "homepage": ".",
+  "homepage": "https://popkov-sorokin.github.io/build/",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
